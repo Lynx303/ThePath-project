@@ -15,9 +15,11 @@ In the app launch Jupyter Notebook. It should be opened in your browser.
 
 
 Setting up the game:
+Download all files from the github repostory and unpack the zip-files with the images
 Within Jupyter, create a new folder by clicking on "New" in the top right corner and selecting "Folder". 
 The name for this folder does not affect the game, so chose a name of your liking (If you struggle with decisions, just name it "The Path")
-Open the new folder and copy all the files from the OneDrive folder into it (drag and drop is recommended). Make sure to hit "upload" for all the files, as they will not be uploaded otherwise.
+Open the new folder and copy all the files (all images, ThePath_v2.py) into it (drag and drop is recommended). Make sure to hit "upload" for all the files, as they will not be uploaded otherwise.
+Important: Do not upload folders in the new folder, only single files!
 
 
 Starting the game:

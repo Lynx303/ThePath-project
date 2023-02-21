@@ -1,0 +1,29 @@
+#Image sources:
+
+#Rajib Ghosh (CC BY-2.0) https://commons.wikimedia.org/wiki/File:Nallamalla_forests_at_Srisailam.jpg
+
+#https://commons.wikimedia.org/wiki/File:Mugger_crocodile_(Crocodylus_palustris).jpg; Charles J. Sharp; CC BY-SA 4.0
+
+#https://commons.wikimedia.org/wiki/File:Melursus_ursinus_II.jpg; Rigelus; CC BY-SA 4.0
+
+#https://commons.wikimedia.org/wiki/File:(Varanus_bengalensis)_Bengal_monitor_at_IGZoo_park_03.JPG; Adityamadhav83; CC BY-SA 3.0
+
+#https://commons.wikimedia.org/wiki/File:Star_Tortoise_(Geochelone_Elegans)_01.jpg; M Kooragamage; CC BY-SA 4.0
+
+#https://commons.wikimedia.org/wiki/File:Pavo_cristatus_235264979.jpg; Parth Kansara; CC BY 4.0
+
+#https://commons.wikimedia.org/wiki/File:12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg; Michael Allen Smith; CC BY-SA 2.0
+
+#https://commons.wikimedia.org/wiki/File:Indian_pangolin_(Manis_crassicaudata)_-_oo_246940_(cropped_to_A).jpg; D’Cruze N, Singh B, Mookerjee A, Harrington LA, Macdonald DW; CC BY 4.0
+
+#https://commons.wikimedia.org/wiki/File:Leopard_(Panthera_pardus)_female_in_a_tree_(16270955959).jpg; Bernard Dupont; CC BY-SA 2.0
+
+#https://commons.wikimedia.org/wiki/File:Burmese_python_(6887388927).jpg; U.S. Fish and Wildlife Service Headquarters; public domain
+
+#https://commons.wikimedia.org/wiki/File:Four-horned_Antelope_Tetracerus_quadricornis_by_Raju_Kasambe_DSCN3810_02.jpg; Dr. Raju Kasambe; CC BY-SA 4.0
+
+#https://commons.wikimedia.org/wiki/File:Elephas_maximus_(Bandipur).jpg; Yathin S Krishnappa; CC BY-SA 3.0
+
+#https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3.jpg; Charles James Sharp; CC BY-SA 4.0
+
+#https://commons.wikimedia.org/wiki/File:Axis_axis_Kanha_4kl.jpg; Altaipanther; public domain
