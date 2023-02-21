@@ -6,7 +6,7 @@ Disclaimer: This is for personal use only, do not distribute in any form.
 Installation instructions for Windows (currently there are no instructions for Mac or Linux as I have no idea lol. The process should be similar)
 
 
-The game ist designed to be run in Jupyter Notebook, if you already have access to Jupyter Notebook, skip the installation.
+The game is designed to be run in Jupyter Notebook, if you already have access to Jupyter Notebook, skip the installation.
 
 Jupyter Notebook installation:
 Please download and install anaconda navigator (https://www.anaconda.com/)
