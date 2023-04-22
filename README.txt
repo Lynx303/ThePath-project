@@ -3,7 +3,7 @@ It is a small "Chose your own story" game set in the Indian tropical dry forest,
 Disclaimer: This is for personal use only, do not distribute in any form.
 
 
-Installation instructions for Windows (currently there are no instructions for Mac or Linux as I have no idea lol. The process should be similar)
+Installation instructions for Windows (currently there are no instructions for Mac or Linux. The process should be similar)
 
 
 The game is designed to be run in Jupyter Notebook, if you already have access to Jupyter Notebook, skip the installation.
@@ -35,3 +35,7 @@ into a new cell (possibly in a new notebook within the new folder).
 
 Have fun :)
 
+
+
+Licensed under CC BY-NC 4.0
+Credit for all used images in ImageSources.txt
